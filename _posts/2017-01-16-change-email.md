@@ -3,6 +3,7 @@ date: 2017-01-16
 title: Change email
 categories:
   - account-settings
+  - account-settings2
 description: "Update your email address"
 type: Document
 ---
